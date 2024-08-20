@@ -1,2 +1,0 @@
-# gorogly.tm
-gorogly
